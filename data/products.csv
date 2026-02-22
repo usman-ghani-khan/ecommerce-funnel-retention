@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,retail_price,cost,department
+1,G-Star Raw Swim #1,Swim,G-Star Raw,18.78,7.31,Women
+2,Calvin Klein Outerwear & Coats #2,Outerwear & Coats,Calvin Klein,44.32,25.11,Men
+3,Allegra K Suits & Sport Coats #3,Suits & Sport Coats,Allegra K,25.83,10.22,Men
+4,Levi's Tops & Tees #4,Tops & Tees,Levi's,26.71,12.85,Men
+5,Volcom Dresses #5,Dresses,Volcom,59.73,22.99,Women
+6,Hanes Tops & Tees #6,Tops & Tees,Hanes,14.67,6.48,Men
+7,Hanes Dresses #7,Dresses,Hanes,25.09,12.01,Women
+8,Carhartt Suits & Sport Coats #8,Suits & Sport Coats,Carhartt,52.39,18.94,Men
+9,Levi's Suits & Sport Coats #9,Suits & Sport Coats,Levi's,25.53,9.56,Men
+10,Calvin Klein Intimates #10,Intimates,Calvin Klein,64.62,29.73,Women
+11,G-Star Raw Outerwear & Coats #11,Outerwear & Coats,G-Star Raw,26.57,15.34,Men
+12,Levi's Tops & Tees #12,Tops & Tees,Levi's,36.48,18.81,Men
+13,Nike Tops & Tees #13,Tops & Tees,Nike,193.83,76.8,Men
+14,Nautica Sleep & Lounge #14,Sleep & Lounge,Nautica,74.9,40.73,Men
+15,Calvin Klein Maternity #15,Maternity,Calvin Klein,41.73,24.22,Women
+16,Lucky Brand Outerwear & Coats #16,Outerwear & Coats,Lucky Brand,62.12,24.79,Men
+17,Dockers Outerwear & Coats #17,Outerwear & Coats,Dockers,19.98,8.35,Men
+18,Allegra K Shorts #18,Shorts,Allegra K,14.15,6.21,Men
+19,Allegra K Tops & Tees #19,Tops & Tees,Allegra K,18.57,10.22,Men
+20,Calvin Klein Outerwear & Coats #20,Outerwear & Coats,Calvin Klein,39.67,23.67,Men
+21,Hanes Accessories #21,Accessories,Hanes,51.9,27.62,Men
+22,Hanes Accessories #22,Accessories,Hanes,62.34,22.97,Men
+23,Nautica Swim #23,Swim,Nautica,14.81,5.42,Women
+24,Lucky Brand Tops & Tees #24,Tops & Tees,Lucky Brand,70.79,30.53,Men
+25,Allegra K Accessories #25,Accessories,Allegra K,60.39,28.27,Men
+26,Nautica Outerwear & Coats #26,Outerwear & Coats,Nautica,43.73,23.1,Men
+27,Hanes Accessories #27,Accessories,Hanes,89.77,42.5,Men
+28,Levi's Active #28,Active,Levi's,44.83,20.48,Men
+29,G-Star Raw Outerwear & Coats #29,Outerwear & Coats,G-Star Raw,15.62,7.45,Men
+30,Levi's Skirts #30,Skirts,Levi's,68.41,28.21,Women
+31,Nautica Swim #31,Swim,Nautica,22.79,8.42,Women
+32,Dockers Tops & Tees #32,Tops & Tees,Dockers,57.18,22.32,Men
+33,Hanes Skirts #33,Skirts,Hanes,49.45,28.08,Women
+34,Quiksilver Shorts #34,Shorts,Quiksilver,73.33,29.09,Men
+35,Lucky Brand Skirts #35,Skirts,Lucky Brand,83.36,47.85,Women
+36,Volcom Tops & Tees #36,Tops & Tees,Volcom,40.66,15.35,Men
+37,Free People Jeans #37,Jeans,Free People,78.59,44.42,Men
+38,Vera Wang Outerwear & Coats #38,Outerwear & Coats,Vera Wang,30.72,14.67,Men
+39,Allegra K Swim #39,Swim,Allegra K,28.87,12.54,Women
+40,Free People Maternity #40,Maternity,Free People,30.77,13.26,Women
+41,Free People Active #41,Active,Free People,20.78,12.32,Men
+42,Carhartt Sleep & Lounge #42,Sleep & Lounge,Carhartt,84.98,35.09,Men
+43,Levi's Dresses #43,Dresses,Levi's,19.23,6.91,Women
+44,Dockers Suits & Sport Coats #44,Suits & Sport Coats,Dockers,20.18,9.6,Men
+45,Diesel Outerwear & Coats #45,Outerwear & Coats,Diesel,48.75,19.98,Men
+46,Volcom Jeans #46,Jeans,Volcom,31.33,14.8,Men
+47,Carhartt Sleep & Lounge #47,Sleep & Lounge,Carhartt,58.0,31.34,Men
+48,Hanes Jeans #48,Jeans,Hanes,18.36,9.77,Men
+49,Free People Swim #49,Swim,Free People,85.04,41.15,Women
+50,Diesel Outerwear & Coats #50,Outerwear & Coats,Diesel,84.39,47.16,Men
+51,Calvin Klein Tops & Tees #51,Tops & Tees,Calvin Klein,101.9,36.09,Men
+52,Calvin Klein Active #52,Active,Calvin Klein,61.82,25.14,Men
+53,Dockers Suits & Sport Coats #53,Suits & Sport Coats,Dockers,50.49,22.55,Men
+54,Calvin Klein Maternity #54,Maternity,Calvin Klein,21.14,8.13,Women
+55,Diesel Swim #55,Swim,Diesel,29.55,15.22,Women
+56,Vera Wang Shorts #56,Shorts,Vera Wang,51.09,24.97,Men
+57,Diesel Active #57,Active,Diesel,30.12,17.3,Men
+58,Lucky Brand Skirts #58,Skirts,Lucky Brand,32.35,16.44,Women
+59,Volcom Tops & Tees #59,Tops & Tees,Volcom,79.81,45.83,Men
+60,Free People Pants & Capris #60,Pants & Capris,Free People,21.75,11.85,Men
+61,Allegra K Suits & Sport Coats #61,Suits & Sport Coats,Allegra K,41.92,14.77,Men
+62,Levi's Outerwear & Coats #62,Outerwear & Coats,Levi's,60.85,31.39,Men
+63,Quiksilver Outerwear & Coats #63,Outerwear & Coats,Quiksilver,40.65,21.26,Men
+64,Nautica Intimates #64,Intimates,Nautica,17.64,7.16,Women
+65,Calvin Klein Intimates #65,Intimates,Calvin Klein,23.32,12.51,Women
+66,Nike Suits & Sport Coats #66,Suits & Sport Coats,Nike,18.57,10.44,Men
+67,Dockers Intimates #67,Intimates,Dockers,21.75,9.61,Women
+68,Calvin Klein Tops & Tees #68,Tops & Tees,Calvin Klein,39.95,16.42,Men
+69,Nautica Sleep & Lounge #69,Sleep & Lounge,Nautica,62.0,31.48,Men
+70,Volcom Shorts #70,Shorts,Volcom,31.7,15.08,Men
+71,Vera Wang Active #71,Active,Vera Wang,15.74,8.35,Men
+72,G-Star Raw Tops & Tees #72,Tops & Tees,G-Star Raw,35.85,12.77,Men
+73,Lucky Brand Suits & Sport Coats #73,Suits & Sport Coats,Lucky Brand,33.97,20.1,Men
+74,Nike Sleep & Lounge #74,Sleep & Lounge,Nike,57.07,32.14,Men
+75,Vera Wang Tops & Tees #75,Tops & Tees,Vera Wang,68.53,29.42,Men
+76,Diesel Jeans #76,Jeans,Diesel,29.81,14.58,Men
+77,Lucky Brand Maternity #77,Maternity,Lucky Brand,53.41,19.99,Women
+78,Hanes Suits & Sport Coats #78,Suits & Sport Coats,Hanes,105.4,62.98,Men
+79,Levi's Jeans #79,Jeans,Levi's,69.02,36.94,Men
+80,Calvin Klein Intimates #80,Intimates,Calvin Klein,37.74,19.84,Women
+81,Allegra K Swim #81,Swim,Allegra K,63.0,34.81,Women
+82,G-Star Raw Pants & Capris #82,Pants & Capris,G-Star Raw,25.47,14.73,Men
+83,Hanes Active #83,Active,Hanes,86.7,44.43,Men
+84,Free People Intimates #84,Intimates,Free People,36.76,20.18,Women
+85,Volcom Skirts #85,Skirts,Volcom,18.33,6.85,Women
+86,Calvin Klein Active #86,Active,Calvin Klein,14.87,5.34,Men
+87,Vera Wang Dresses #87,Dresses,Vera Wang,12.51,6.23,Women
+88,Hanes Outerwear & Coats #88,Outerwear & Coats,Hanes,45.35,16.3,Men
+89,Vera Wang Shorts #89,Shorts,Vera Wang,21.42,10.29,Men
+90,Calvin Klein Accessories #90,Accessories,Calvin Klein,29.94,12.09,Men
+91,Dockers Suits & Sport Coats #91,Suits & Sport Coats,Dockers,153.46,78.17,Men
+92,Volcom Accessories #92,Accessories,Volcom,110.61,65.7,Men
+93,Quiksilver Active #93,Active,Quiksilver,68.64,28.67,Men
+94,G-Star Raw Dresses #94,Dresses,G-Star Raw,25.1,9.28,Women
+95,Vera Wang Outerwear & Coats #95,Outerwear & Coats,Vera Wang,23.03,9.06,Men
+96,Diesel Jeans #96,Jeans,Diesel,99.16,40.91,Men
+97,Carhartt Active #97,Active,Carhartt,64.54,27.11,Men
+98,Diesel Maternity #98,Maternity,Diesel,78.24,41.82,Women
+99,Diesel Active #99,Active,Diesel,16.51,6.8,Men
+100,Hanes Swim #100,Swim,Hanes,110.63,59.68,Women
+101,G-Star Raw Outerwear & Coats #101,Outerwear & Coats,G-Star Raw,31.74,11.89,Men
+102,Volcom Dresses #102,Dresses,Volcom,112.53,52.71,Women
+103,Levi's Jeans #103,Jeans,Levi's,11.06,5.57,Men
+104,Nike Suits & Sport Coats #104,Suits & Sport Coats,Nike,16.77,6.06,Men
+105,G-Star Raw Swim #105,Swim,G-Star Raw,37.91,21.39,Women
+106,G-Star Raw Intimates #106,Intimates,G-Star Raw,149.72,58.5,Women
+107,Calvin Klein Outerwear & Coats #107,Outerwear & Coats,Calvin Klein,32.41,16.09,Men
+108,Lucky Brand Maternity #108,Maternity,Lucky Brand,37.96,18.75,Women
+109,G-Star Raw Swim #109,Swim,G-Star Raw,25.3,12.31,Women
+110,Carhartt Maternity #110,Maternity,Carhartt,129.9,58.0,Women
+111,Nautica Sleep & Lounge #111,Sleep & Lounge,Nautica,27.33,11.74,Men
+112,Levi's Pants & Capris #112,Pants & Capris,Levi's,41.45,14.75,Men
+113,Hanes Shorts #113,Shorts,Hanes,25.2,13.21,Men
+114,Carhartt Suits & Sport Coats #114,Suits & Sport Coats,Carhartt,29.57,16.84,Men
+115,Quiksilver Accessories #115,Accessories,Quiksilver,25.08,9.89,Men
+116,Dockers Accessories #116,Accessories,Dockers,61.93,34.17,Men
+117,Volcom Sleep & Lounge #117,Sleep & Lounge,Volcom,12.52,6.81,Men
+118,Nike Swim #118,Swim,Nike,17.6,10.26,Women
+119,G-Star Raw Pants & Capris #119,Pants & Capris,G-Star Raw,92.92,50.05,Men
+120,Levi's Outerwear & Coats #120,Outerwear & Coats,Levi's,28.11,16.18,Men
+121,Nautica Active #121,Active,Nautica,26.74,15.35,Men
+122,Hanes Swim #122,Swim,Hanes,64.68,22.81,Women
+123,G-Star Raw Skirts #123,Skirts,G-Star Raw,31.11,18.28,Women
+124,Diesel Maternity #124,Maternity,Diesel,25.33,12.5,Women
+125,Vera Wang Suits & Sport Coats #125,Suits & Sport Coats,Vera Wang,12.49,5.4,Men
+126,Free People Intimates #126,Intimates,Free People,27.99,15.06,Women
+127,Free People Shorts #127,Shorts,Free People,24.06,11.73,Men
+128,Allegra K Dresses #128,Dresses,Allegra K,36.41,20.82,Women
+129,Hanes Swim #129,Swim,Hanes,52.89,19.85,Women
+130,Vera Wang Outerwear & Coats #130,Outerwear & Coats,Vera Wang,82.66,43.42,Men
+131,Allegra K Outerwear & Coats #131,Outerwear & Coats,Allegra K,51.19,18.96,Men
+132,Free People Outerwear & Coats #132,Outerwear & Coats,Free People,61.78,36.86,Men
+133,Diesel Swim #133,Swim,Diesel,73.16,42.93,Women
+134,Dockers Sleep & Lounge #134,Sleep & Lounge,Dockers,27.48,14.79,Men
+135,Volcom Swim #135,Swim,Volcom,10.78,6.22,Women
+136,Calvin Klein Outerwear & Coats #136,Outerwear & Coats,Calvin Klein,93.88,44.42,Men
+137,Hanes Outerwear & Coats #137,Outerwear & Coats,Hanes,24.3,9.23,Men
+138,Nike Outerwear & Coats #138,Outerwear & Coats,Nike,35.56,18.22,Men
+139,Lucky Brand Accessories #139,Accessories,Lucky Brand,49.19,21.83,Men
+140,Nike Tops & Tees #140,Tops & Tees,Nike,38.6,21.89,Men
+141,Levi's Jeans #141,Jeans,Levi's,38.16,22.83,Men
+142,Diesel Outerwear & Coats #142,Outerwear & Coats,Diesel,66.03,32.25,Men
+143,Hanes Sleep & Lounge #143,Sleep & Lounge,Hanes,143.37,75.12,Men
+144,G-Star Raw Dresses #144,Dresses,G-Star Raw,46.7,23.67,Women
+145,Quiksilver Suits & Sport Coats #145,Suits & Sport Coats,Quiksilver,34.24,17.29,Men
+146,Dockers Tops & Tees #146,Tops & Tees,Dockers,65.75,26.1,Men
+147,Nike Dresses #147,Dresses,Nike,68.0,25.12,Women
+148,Nike Sleep & Lounge #148,Sleep & Lounge,Nike,12.35,7.37,Men
+149,G-Star Raw Intimates #149,Intimates,G-Star Raw,11.62,6.43,Women
+150,Quiksilver Intimates #150,Intimates,Quiksilver,45.49,17.77,Women
+151,Carhartt Skirts #151,Skirts,Carhartt,57.12,25.96,Women
+152,Volcom Maternity #152,Maternity,Volcom,88.77,50.29,Women
+153,Carhartt Outerwear & Coats #153,Outerwear & Coats,Carhartt,35.02,19.35,Men
+154,Hanes Sleep & Lounge #154,Sleep & Lounge,Hanes,30.9,11.98,Men
+155,Levi's Suits & Sport Coats #155,Suits & Sport Coats,Levi's,44.91,25.17,Men
+156,Nautica Shorts #156,Shorts,Nautica,34.75,16.23,Men
+157,Nautica Swim #157,Swim,Nautica,34.29,19.41,Women
+158,Volcom Shorts #158,Shorts,Volcom,35.4,21.24,Men
+159,Levi's Sleep & Lounge #159,Sleep & Lounge,Levi's,90.9,53.28,Men
+160,Lucky Brand Pants & Capris #160,Pants & Capris,Lucky Brand,44.14,18.18,Men
+161,Dockers Dresses #161,Dresses,Dockers,16.1,8.34,Women
+162,Nike Suits & Sport Coats #162,Suits & Sport Coats,Nike,50.47,22.18,Men
+163,Lucky Brand Outerwear & Coats #163,Outerwear & Coats,Lucky Brand,42.33,22.99,Men
+164,Dockers Active #164,Active,Dockers,125.02,70.39,Men
+165,Diesel Active #165,Active,Diesel,67.76,30.55,Men
+166,Hanes Jeans #166,Jeans,Hanes,40.43,14.44,Men
+167,Carhartt Accessories #167,Accessories,Carhartt,89.43,36.06,Men
+168,Nautica Jeans #168,Jeans,Nautica,61.97,21.91,Men
+169,Quiksilver Swim #169,Swim,Quiksilver,12.95,5.95,Women
+170,Calvin Klein Skirts #170,Skirts,Calvin Klein,87.06,38.05,Women
+171,Free People Active #171,Active,Free People,27.33,13.82,Men
+172,Allegra K Pants & Capris #172,Pants & Capris,Allegra K,81.51,47.88,Men
+173,Vera Wang Jeans #173,Jeans,Vera Wang,36.28,15.04,Men
+174,Calvin Klein Dresses #174,Dresses,Calvin Klein,59.02,35.12,Women
+175,Carhartt Dresses #175,Dresses,Carhartt,71.78,29.43,Women
+176,G-Star Raw Outerwear & Coats #176,Outerwear & Coats,G-Star Raw,15.41,5.89,Men
+177,Carhartt Outerwear & Coats #177,Outerwear & Coats,Carhartt,18.9,8.25,Men
+178,Free People Skirts #178,Skirts,Free People,49.04,22.97,Women
+179,G-Star Raw Intimates #179,Intimates,G-Star Raw,27.99,10.08,Women
+180,Dockers Jeans #180,Jeans,Dockers,27.51,11.54,Men
+181,Lucky Brand Jeans #181,Jeans,Lucky Brand,15.48,6.83,Men
+182,Calvin Klein Active #182,Active,Calvin Klein,32.63,17.05,Men
+183,Dockers Outerwear & Coats #183,Outerwear & Coats,Dockers,49.84,18.46,Men
+184,Dockers Pants & Capris #184,Pants & Capris,Dockers,75.4,43.75,Men
+185,Lucky Brand Outerwear & Coats #185,Outerwear & Coats,Lucky Brand,61.0,32.76,Men
+186,Quiksilver Jeans #186,Jeans,Quiksilver,25.22,10.15,Men
+187,Nautica Swim #187,Swim,Nautica,152.09,67.26,Women
+188,Volcom Dresses #188,Dresses,Volcom,30.37,16.3,Women
+189,Nautica Outerwear & Coats #189,Outerwear & Coats,Nautica,61.0,35.0,Men
+190,Vera Wang Active #190,Active,Vera Wang,20.23,9.77,Men
+191,Allegra K Outerwear & Coats #191,Outerwear & Coats,Allegra K,91.31,37.49,Men
+192,G-Star Raw Tops & Tees #192,Tops & Tees,G-Star Raw,9.99,4.44,Men
+193,Levi's Outerwear & Coats #193,Outerwear & Coats,Levi's,19.36,8.36,Men
+194,Calvin Klein Outerwear & Coats #194,Outerwear & Coats,Calvin Klein,24.71,14.15,Men
+195,G-Star Raw Suits & Sport Coats #195,Suits & Sport Coats,G-Star Raw,68.94,32.72,Men
+196,Nike Outerwear & Coats #196,Outerwear & Coats,Nike,54.17,26.23,Men
+197,Nautica Suits & Sport Coats #197,Suits & Sport Coats,Nautica,28.1,10.73,Men
+198,Free People Tops & Tees #198,Tops & Tees,Free People,94.56,41.68,Men
+199,Volcom Suits & Sport Coats #199,Suits & Sport Coats,Volcom,11.61,6.93,Men
+200,Free People Suits & Sport Coats #200,Suits & Sport Coats,Free People,64.38,26.35,Men
+201,G-Star Raw Outerwear & Coats #201,Outerwear & Coats,G-Star Raw,27.8,10.85,Men
+202,Diesel Jeans #202,Jeans,Diesel,25.14,10.59,Men
+203,Calvin Klein Jeans #203,Jeans,Calvin Klein,9.99,5.95,Men
+204,Volcom Outerwear & Coats #204,Outerwear & Coats,Volcom,55.19,24.81,Men
+205,Dockers Sleep & Lounge #205,Sleep & Lounge,Dockers,42.2,17.49,Men
+206,Carhartt Jeans #206,Jeans,Carhartt,43.13,22.31,Men
+207,Quiksilver Skirts #207,Skirts,Quiksilver,124.71,52.38,Women
+208,Allegra K Accessories #208,Accessories,Allegra K,96.71,38.37,Men
+209,Levi's Tops & Tees #209,Tops & Tees,Levi's,43.29,17.77,Men
+210,Nike Outerwear & Coats #210,Outerwear & Coats,Nike,9.99,5.02,Men
+211,Levi's Tops & Tees #211,Tops & Tees,Levi's,18.48,8.69,Men
+212,Volcom Active #212,Active,Volcom,42.98,15.6,Men
+213,Nautica Tops & Tees #213,Tops & Tees,Nautica,25.5,13.27,Men
+214,Free People Accessories #214,Accessories,Free People,57.75,28.81,Men
+215,Carhartt Dresses #215,Dresses,Carhartt,12.65,7.37,Women
+216,Nautica Shorts #216,Shorts,Nautica,19.7,11.65,Men
+217,Nike Outerwear & Coats #217,Outerwear & Coats,Nike,40.52,16.02,Men
+218,Calvin Klein Outerwear & Coats #218,Outerwear & Coats,Calvin Klein,38.61,20.67,Men
+219,Vera Wang Active #219,Active,Vera Wang,34.06,18.69,Men
+220,G-Star Raw Jeans #220,Jeans,G-Star Raw,39.18,15.32,Men
+221,Volcom Jeans #221,Jeans,Volcom,50.71,24.38,Men
+222,Vera Wang Swim #222,Swim,Vera Wang,68.1,38.77,Women
+223,G-Star Raw Swim #223,Swim,G-Star Raw,31.5,13.99,Women
+224,Nautica Dresses #224,Dresses,Nautica,79.89,33.98,Women
+225,Lucky Brand Accessories #225,Accessories,Lucky Brand,14.18,8.15,Men
+226,Hanes Swim #226,Swim,Hanes,36.95,17.95,Women
+227,Carhartt Skirts #227,Skirts,Carhartt,21.52,12.59,Women
+228,Diesel Suits & Sport Coats #228,Suits & Sport Coats,Diesel,43.47,18.85,Men
+229,Free People Jeans #229,Jeans,Free People,49.68,24.01,Men
+230,Carhartt Skirts #230,Skirts,Carhartt,77.35,42.32,Women
+231,Nautica Jeans #231,Jeans,Nautica,19.01,10.19,Men
+232,Free People Outerwear & Coats #232,Outerwear & Coats,Free People,22.42,11.04,Men
+233,Nike Accessories #233,Accessories,Nike,29.71,16.5,Men
+234,Nautica Outerwear & Coats #234,Outerwear & Coats,Nautica,60.19,33.8,Men
+235,Nike Outerwear & Coats #235,Outerwear & Coats,Nike,79.22,30.7,Men
+236,Allegra K Jeans #236,Jeans,Allegra K,28.03,14.87,Men
+237,Lucky Brand Accessories #237,Accessories,Lucky Brand,84.06,40.83,Men
+238,Diesel Tops & Tees #238,Tops & Tees,Diesel,67.03,29.25,Men
+239,Quiksilver Jeans #239,Jeans,Quiksilver,40.54,18.25,Men
+240,Allegra K Dresses #240,Dresses,Allegra K,60.42,35.46,Women
+241,Calvin Klein Jeans #241,Jeans,Calvin Klein,40.79,20.51,Men
+242,Nike Outerwear & Coats #242,Outerwear & Coats,Nike,178.78,101.55,Men
+243,Diesel Maternity #243,Maternity,Diesel,106.62,61.91,Women
+244,Nike Intimates #244,Intimates,Nike,52.15,20.24,Women
+245,Vera Wang Active #245,Active,Vera Wang,16.36,8.74,Men
+246,Free People Maternity #246,Maternity,Free People,113.53,66.01,Women
+247,Volcom Dresses #247,Dresses,Volcom,167.87,75.5,Women
+248,Hanes Outerwear & Coats #248,Outerwear & Coats,Hanes,50.12,21.74,Men
+249,Allegra K Shorts #249,Shorts,Allegra K,61.03,35.4,Men
+250,Hanes Swim #250,Swim,Hanes,9.99,4.36,Women
+251,Nike Accessories #251,Accessories,Nike,14.86,6.88,Men
+252,Lucky Brand Jeans #252,Jeans,Lucky Brand,31.3,12.34,Men
+253,Calvin Klein Dresses #253,Dresses,Calvin Klein,59.3,26.13,Women
+254,Calvin Klein Suits & Sport Coats #254,Suits & Sport Coats,Calvin Klein,33.3,16.92,Men
+255,Levi's Outerwear & Coats #255,Outerwear & Coats,Levi's,19.88,11.73,Men
+256,Quiksilver Jeans #256,Jeans,Quiksilver,49.9,22.64,Men
+257,Vera Wang Outerwear & Coats #257,Outerwear & Coats,Vera Wang,36.61,18.26,Men
+258,Calvin Klein Outerwear & Coats #258,Outerwear & Coats,Calvin Klein,40.24,21.63,Men
+259,Free People Jeans #259,Jeans,Free People,34.16,13.58,Men
+260,Nautica Outerwear & Coats #260,Outerwear & Coats,Nautica,40.17,18.8,Men
+261,Free People Active #261,Active,Free People,84.2,38.75,Men
+262,Carhartt Swim #262,Swim,Carhartt,9.99,4.89,Women
+263,Carhartt Jeans #263,Jeans,Carhartt,43.55,25.54,Men
+264,G-Star Raw Swim #264,Swim,G-Star Raw,31.41,13.12,Women
+265,Quiksilver Suits & Sport Coats #265,Suits & Sport Coats,Quiksilver,29.46,11.46,Men
+266,Nautica Intimates #266,Intimates,Nautica,35.1,18.07,Women
+267,Carhartt Outerwear & Coats #267,Outerwear & Coats,Carhartt,23.98,12.42,Men
+268,Volcom Outerwear & Coats #268,Outerwear & Coats,Volcom,23.64,8.89,Men
+269,Nautica Shorts #269,Shorts,Nautica,49.42,20.24,Men
+270,Vera Wang Outerwear & Coats #270,Outerwear & Coats,Vera Wang,19.45,7.99,Men
+271,Lucky Brand Accessories #271,Accessories,Lucky Brand,42.13,18.93,Men
+272,Dockers Intimates #272,Intimates,Dockers,42.59,17.09,Women
+273,Hanes Tops & Tees #273,Tops & Tees,Hanes,13.44,7.7,Men
+274,Nike Shorts #274,Shorts,Nike,105.51,45.94,Men
+275,Nautica Tops & Tees #275,Tops & Tees,Nautica,80.6,33.61,Men
+276,Free People Suits & Sport Coats #276,Suits & Sport Coats,Free People,12.78,5.78,Men
+277,Levi's Active #277,Active,Levi's,12.78,7.5,Men
+278,Levi's Accessories #278,Accessories,Levi's,26.39,10.16,Men
+279,Hanes Pants & Capris #279,Pants & Capris,Hanes,65.57,36.06,Men
+280,Levi's Dresses #280,Dresses,Levi's,35.92,12.77,Women
+281,Volcom Tops & Tees #281,Tops & Tees,Volcom,133.37,55.28,Men
+282,Dockers Jeans #282,Jeans,Dockers,54.78,30.61,Men
+283,G-Star Raw Sleep & Lounge #283,Sleep & Lounge,G-Star Raw,16.89,7.06,Men
+284,G-Star Raw Outerwear & Coats #284,Outerwear & Coats,G-Star Raw,38.88,22.49,Men
+285,Diesel Outerwear & Coats #285,Outerwear & Coats,Diesel,13.77,6.73,Men
+286,Quiksilver Intimates #286,Intimates,Quiksilver,50.96,28.41,Women
+287,Nike Jeans #287,Jeans,Nike,96.77,49.96,Men
+288,Nautica Jeans #288,Jeans,Nautica,93.91,54.34,Men
+289,Quiksilver Swim #289,Swim,Quiksilver,46.07,16.67,Women
+290,Calvin Klein Jeans #290,Jeans,Calvin Klein,9.99,5.34,Men
+291,Hanes Outerwear & Coats #291,Outerwear & Coats,Hanes,15.48,6.92,Men
+292,Hanes Tops & Tees #292,Tops & Tees,Hanes,51.86,22.76,Men
+293,Calvin Klein Intimates #293,Intimates,Calvin Klein,51.64,24.22,Women
+294,Diesel Intimates #294,Intimates,Diesel,12.78,7.47,Women
+295,Allegra K Accessories #295,Accessories,Allegra K,52.7,19.12,Men
+296,Lucky Brand Dresses #296,Dresses,Lucky Brand,14.71,7.34,Women
+297,Nautica Tops & Tees #297,Tops & Tees,Nautica,29.63,10.93,Men
+298,Hanes Accessories #298,Accessories,Hanes,42.33,20.06,Men
+299,Lucky Brand Intimates #299,Intimates,Lucky Brand,14.37,7.97,Women
+300,Hanes Shorts #300,Shorts,Hanes,28.78,15.07,Men
+301,Allegra K Tops & Tees #301,Tops & Tees,Allegra K,12.71,4.74,Men
+302,Calvin Klein Skirts #302,Skirts,Calvin Klein,72.71,27.94,Women
+303,Levi's Maternity #303,Maternity,Levi's,16.58,8.05,Women
+304,G-Star Raw Pants & Capris #304,Pants & Capris,G-Star Raw,31.95,17.03,Men
+305,Allegra K Shorts #305,Shorts,Allegra K,79.18,44.52,Men
+306,Hanes Tops & Tees #306,Tops & Tees,Hanes,69.22,32.7,Men
+307,Calvin Klein Jeans #307,Jeans,Calvin Klein,59.81,21.44,Men
+308,Nike Intimates #308,Intimates,Nike,39.66,16.83,Women
+309,Allegra K Skirts #309,Skirts,Allegra K,72.06,40.44,Women
+310,Vera Wang Tops & Tees #310,Tops & Tees,Vera Wang,34.87,19.43,Men
+311,Diesel Outerwear & Coats #311,Outerwear & Coats,Diesel,15.75,5.99,Men
+312,Calvin Klein Outerwear & Coats #312,Outerwear & Coats,Calvin Klein,49.43,25.9,Men
+313,Nautica Tops & Tees #313,Tops & Tees,Nautica,31.29,13.42,Men
+314,Hanes Active #314,Active,Hanes,39.69,21.74,Men
+315,Volcom Tops & Tees #315,Tops & Tees,Volcom,61.6,31.04,Men
+316,G-Star Raw Jeans #316,Jeans,G-Star Raw,43.37,15.44,Men
+317,Quiksilver Pants & Capris #317,Pants & Capris,Quiksilver,56.15,30.87,Men
+318,Hanes Sleep & Lounge #318,Sleep & Lounge,Hanes,37.65,16.48,Men
+319,Nautica Accessories #319,Accessories,Nautica,26.95,13.66,Men
+320,Carhartt Pants & Capris #320,Pants & Capris,Carhartt,9.99,5.95,Men
+321,Levi's Accessories #321,Accessories,Levi's,13.34,7.13,Men
+322,Nike Jeans #322,Jeans,Nike,12.74,4.81,Men
+323,Nike Swim #323,Swim,Nike,20.01,8.17,Women
+324,Lucky Brand Outerwear & Coats #324,Outerwear & Coats,Lucky Brand,19.48,6.91,Men
+325,Lucky Brand Sleep & Lounge #325,Sleep & Lounge,Lucky Brand,11.47,5.96,Men
+326,Quiksilver Jeans #326,Jeans,Quiksilver,17.74,10.42,Men
+327,Hanes Shorts #327,Shorts,Hanes,33.13,18.88,Men
+328,Free People Maternity #328,Maternity,Free People,22.3,10.41,Women
+329,Quiksilver Suits & Sport Coats #329,Suits & Sport Coats,Quiksilver,73.72,35.25,Men
+330,Free People Jeans #330,Jeans,Free People,96.8,38.15,Men
+331,Dockers Jeans #331,Jeans,Dockers,51.07,22.34,Men
+332,Hanes Outerwear & Coats #332,Outerwear & Coats,Hanes,25.19,14.92,Men
+333,Calvin Klein Pants & Capris #333,Pants & Capris,Calvin Klein,29.25,15.78,Men
+334,Calvin Klein Intimates #334,Intimates,Calvin Klein,18.1,7.03,Women
+335,G-Star Raw Shorts #335,Shorts,G-Star Raw,23.97,11.61,Men
+336,Dockers Suits & Sport Coats #336,Suits & Sport Coats,Dockers,23.99,11.88,Men
+337,Diesel Outerwear & Coats #337,Outerwear & Coats,Diesel,29.44,11.26,Men
+338,Dockers Pants & Capris #338,Pants & Capris,Dockers,51.95,30.59,Men
+339,Dockers Pants & Capris #339,Pants & Capris,Dockers,50.71,24.73,Men
+340,Quiksilver Outerwear & Coats #340,Outerwear & Coats,Quiksilver,70.12,31.7,Men
+341,Vera Wang Swim #341,Swim,Vera Wang,62.21,29.49,Women
+342,Levi's Outerwear & Coats #342,Outerwear & Coats,Levi's,20.69,8.38,Men
+343,Allegra K Intimates #343,Intimates,Allegra K,9.99,4.98,Women
+344,G-Star Raw Shorts #344,Shorts,G-Star Raw,21.71,9.49,Men
+345,G-Star Raw Intimates #345,Intimates,G-Star Raw,13.69,7.8,Women
+346,G-Star Raw Shorts #346,Shorts,G-Star Raw,48.3,24.86,Men
+347,Calvin Klein Pants & Capris #347,Pants & Capris,Calvin Klein,46.68,26.11,Men
+348,Allegra K Intimates #348,Intimates,Allegra K,56.2,29.23,Women
+349,Dockers Suits & Sport Coats #349,Suits & Sport Coats,Dockers,24.79,14.14,Men
+350,Levi's Pants & Capris #350,Pants & Capris,Levi's,48.83,17.45,Men
+351,Diesel Shorts #351,Shorts,Diesel,29.31,15.71,Men
+352,Free People Jeans #352,Jeans,Free People,22.19,12.3,Men
+353,Vera Wang Shorts #353,Shorts,Vera Wang,31.96,13.48,Men
+354,Calvin Klein Suits & Sport Coats #354,Suits & Sport Coats,Calvin Klein,36.67,21.83,Men
+355,Hanes Suits & Sport Coats #355,Suits & Sport Coats,Hanes,57.51,27.89,Men
+356,Hanes Accessories #356,Accessories,Hanes,16.28,6.13,Men
+357,Hanes Accessories #357,Accessories,Hanes,50.54,22.01,Men
+358,Nautica Suits & Sport Coats #358,Suits & Sport Coats,Nautica,37.67,21.96,Men
+359,Quiksilver Outerwear & Coats #359,Outerwear & Coats,Quiksilver,40.66,14.92,Men
+360,Carhartt Tops & Tees #360,Tops & Tees,Carhartt,46.76,24.64,Men
+361,Dockers Outerwear & Coats #361,Outerwear & Coats,Dockers,12.35,6.24,Men
+362,Carhartt Outerwear & Coats #362,Outerwear & Coats,Carhartt,65.3,37.08,Men
+363,Volcom Sleep & Lounge #363,Sleep & Lounge,Volcom,45.62,16.25,Men
+364,Quiksilver Outerwear & Coats #364,Outerwear & Coats,Quiksilver,26.7,11.51,Men
+365,Hanes Dresses #365,Dresses,Hanes,56.79,26.21,Women
+366,Vera Wang Tops & Tees #366,Tops & Tees,Vera Wang,69.97,41.93,Men
+367,Nike Dresses #367,Dresses,Nike,17.5,9.6,Women
+368,Calvin Klein Intimates #368,Intimates,Calvin Klein,32.9,13.33,Women
+369,Quiksilver Outerwear & Coats #369,Outerwear & Coats,Quiksilver,71.74,30.01,Men
+370,Free People Maternity #370,Maternity,Free People,80.34,31.15,Women
+371,Vera Wang Dresses #371,Dresses,Vera Wang,34.17,17.41,Women
+372,Vera Wang Swim #372,Swim,Vera Wang,53.51,22.4,Women
+373,Nautica Sleep & Lounge #373,Sleep & Lounge,Nautica,62.72,25.56,Men
+374,Calvin Klein Jeans #374,Jeans,Calvin Klein,32.33,11.57,Men
+375,Allegra K Intimates #375,Intimates,Allegra K,64.73,30.31,Women
+376,G-Star Raw Sleep & Lounge #376,Sleep & Lounge,G-Star Raw,29.79,11.81,Men
+377,Nautica Pants & Capris #377,Pants & Capris,Nautica,55.96,31.4,Men
+378,Vera Wang Accessories #378,Accessories,Vera Wang,56.46,28.6,Men
+379,Allegra K Jeans #379,Jeans,Allegra K,77.44,36.43,Men
+380,Calvin Klein Outerwear & Coats #380,Outerwear & Coats,Calvin Klein,49.15,18.74,Men
+381,Nike Intimates #381,Intimates,Nike,16.2,7.66,Women
+382,Free People Outerwear & Coats #382,Outerwear & Coats,Free People,30.28,15.0,Men
+383,Vera Wang Tops & Tees #383,Tops & Tees,Vera Wang,25.01,11.6,Men
+384,Hanes Outerwear & Coats #384,Outerwear & Coats,Hanes,66.52,24.49,Men
+385,Carhartt Swim #385,Swim,Carhartt,161.32,68.22,Women
+386,Dockers Intimates #386,Intimates,Dockers,27.18,15.36,Women
+387,Quiksilver Accessories #387,Accessories,Quiksilver,36.07,13.57,Men
+388,Quiksilver Tops & Tees #388,Tops & Tees,Quiksilver,25.98,15.5,Men
+389,Hanes Jeans #389,Jeans,Hanes,154.66,81.29,Men
+390,Vera Wang Active #390,Active,Vera Wang,36.11,12.73,Men
+391,Dockers Tops & Tees #391,Tops & Tees,Dockers,21.63,9.47,Men
+392,Nike Outerwear & Coats #392,Outerwear & Coats,Nike,37.43,13.84,Men
+393,Allegra K Swim #393,Swim,Allegra K,41.15,21.5,Women
+394,Carhartt Shorts #394,Shorts,Carhartt,19.34,7.74,Men
+395,Dockers Jeans #395,Jeans,Dockers,43.18,22.74,Men
+396,Allegra K Outerwear & Coats #396,Outerwear & Coats,Allegra K,22.67,13.24,Men
+397,Dockers Outerwear & Coats #397,Outerwear & Coats,Dockers,108.55,61.63,Men
+398,Volcom Intimates #398,Intimates,Volcom,45.37,24.97,Women
+399,Nike Tops & Tees #399,Tops & Tees,Nike,39.2,21.73,Men
+400,Free People Dresses #400,Dresses,Free People,64.72,33.07,Women
+401,Free People Active #401,Active,Free People,29.32,10.7,Men
+402,Quiksilver Tops & Tees #402,Tops & Tees,Quiksilver,41.38,16.13,Men
+403,Volcom Pants & Capris #403,Pants & Capris,Volcom,19.71,10.79,Men
+404,Dockers Intimates #404,Intimates,Dockers,26.64,12.64,Women
+405,Levi's Active #405,Active,Levi's,20.91,12.53,Men
+406,Levi's Sleep & Lounge #406,Sleep & Lounge,Levi's,57.51,29.48,Men
+407,Free People Jeans #407,Jeans,Free People,27.08,9.69,Men
+408,Nautica Tops & Tees #408,Tops & Tees,Nautica,41.55,19.35,Men
+409,G-Star Raw Pants & Capris #409,Pants & Capris,G-Star Raw,64.05,29.23,Men
+410,Levi's Swim #410,Swim,Levi's,61.8,27.36,Women
+411,Quiksilver Sleep & Lounge #411,Sleep & Lounge,Quiksilver,14.34,7.62,Men
+412,Carhartt Dresses #412,Dresses,Carhartt,121.64,69.13,Women
+413,Hanes Skirts #413,Skirts,Hanes,13.74,6.84,Women
+414,Volcom Skirts #414,Skirts,Volcom,25.95,10.45,Women
+415,Hanes Suits & Sport Coats #415,Suits & Sport Coats,Hanes,83.6,32.01,Men
+416,Allegra K Intimates #416,Intimates,Allegra K,58.34,33.68,Women
+417,Lucky Brand Jeans #417,Jeans,Lucky Brand,44.45,21.03,Men
+418,Levi's Tops & Tees #418,Tops & Tees,Levi's,30.73,17.45,Men
+419,Nautica Dresses #419,Dresses,Nautica,9.99,4.98,Women
+420,Allegra K Jeans #420,Jeans,Allegra K,42.15,18.87,Men
+421,Levi's Sleep & Lounge #421,Sleep & Lounge,Levi's,59.4,25.62,Men
+422,Diesel Accessories #422,Accessories,Diesel,17.33,6.63,Men
+423,Allegra K Sleep & Lounge #423,Sleep & Lounge,Allegra K,14.39,5.3,Men
+424,Allegra K Jeans #424,Jeans,Allegra K,31.08,14.92,Men
+425,Lucky Brand Tops & Tees #425,Tops & Tees,Lucky Brand,31.33,12.91,Men
+426,Quiksilver Suits & Sport Coats #426,Suits & Sport Coats,Quiksilver,76.72,40.41,Men
+427,Nautica Jeans #427,Jeans,Nautica,60.84,28.51,Men
+428,Nike Pants & Capris #428,Pants & Capris,Nike,76.21,42.02,Men
+429,Vera Wang Suits & Sport Coats #429,Suits & Sport Coats,Vera Wang,30.51,11.53,Men
+430,Nautica Tops & Tees #430,Tops & Tees,Nautica,45.96,16.74,Men
+431,Carhartt Active #431,Active,Carhartt,33.83,19.74,Men
+432,Allegra K Tops & Tees #432,Tops & Tees,Allegra K,19.67,9.38,Men
+433,Nautica Outerwear & Coats #433,Outerwear & Coats,Nautica,39.79,22.56,Men
+434,Calvin Klein Dresses #434,Dresses,Calvin Klein,48.02,23.0,Women
+435,Vera Wang Dresses #435,Dresses,Vera Wang,21.7,7.76,Women
+436,Carhartt Tops & Tees #436,Tops & Tees,Carhartt,46.62,24.53,Men
+437,Calvin Klein Jeans #437,Jeans,Calvin Klein,43.2,19.91,Men
+438,Lucky Brand Pants & Capris #438,Pants & Capris,Lucky Brand,24.77,9.77,Men
+439,Calvin Klein Intimates #439,Intimates,Calvin Klein,35.93,18.13,Women
+440,G-Star Raw Pants & Capris #440,Pants & Capris,G-Star Raw,121.76,59.99,Men
+441,Vera Wang Outerwear & Coats #441,Outerwear & Coats,Vera Wang,41.2,21.39,Men
+442,Hanes Jeans #442,Jeans,Hanes,47.92,24.67,Men
+443,Dockers Swim #443,Swim,Dockers,23.04,11.85,Women
+444,Calvin Klein Sleep & Lounge #444,Sleep & Lounge,Calvin Klein,43.73,15.83,Men
+445,Nike Sleep & Lounge #445,Sleep & Lounge,Nike,66.89,36.49,Men
+446,Lucky Brand Active #446,Active,Lucky Brand,31.46,16.82,Men
+447,Hanes Pants & Capris #447,Pants & Capris,Hanes,13.32,6.89,Men
+448,Lucky Brand Shorts #448,Shorts,Lucky Brand,20.9,11.3,Men
+449,Lucky Brand Shorts #449,Shorts,Lucky Brand,79.35,30.16,Men
+450,Allegra K Active #450,Active,Allegra K,31.29,11.0,Men
+451,Lucky Brand Tops & Tees #451,Tops & Tees,Lucky Brand,17.0,8.91,Men
+452,Calvin Klein Swim #452,Swim,Calvin Klein,13.65,6.31,Women
+453,Dockers Jeans #453,Jeans,Dockers,16.85,6.21,Men
+454,G-Star Raw Suits & Sport Coats #454,Suits & Sport Coats,G-Star Raw,25.52,13.2,Men
+455,Lucky Brand Suits & Sport Coats #455,Suits & Sport Coats,Lucky Brand,9.99,5.65,Men
+456,Lucky Brand Active #456,Active,Lucky Brand,24.29,11.41,Men
+457,Nautica Outerwear & Coats #457,Outerwear & Coats,Nautica,18.28,8.22,Men
+458,Diesel Suits & Sport Coats #458,Suits & Sport Coats,Diesel,14.59,7.05,Men
+459,Nike Suits & Sport Coats #459,Suits & Sport Coats,Nike,55.04,29.15,Men
+460,Volcom Maternity #460,Maternity,Volcom,51.69,18.33,Women
+461,Hanes Jeans #461,Jeans,Hanes,31.45,18.3,Men
+462,G-Star Raw Outerwear & Coats #462,Outerwear & Coats,G-Star Raw,46.31,27.03,Men
+463,Levi's Swim #463,Swim,Levi's,35.87,14.86,Women
+464,Diesel Tops & Tees #464,Tops & Tees,Diesel,20.69,8.83,Men
+465,Hanes Shorts #465,Shorts,Hanes,11.62,5.84,Men
+466,Volcom Intimates #466,Intimates,Volcom,46.44,19.42,Women
+467,Dockers Swim #467,Swim,Dockers,33.77,17.57,Women
+468,Carhartt Jeans #468,Jeans,Carhartt,33.26,16.01,Men
+469,G-Star Raw Intimates #469,Intimates,G-Star Raw,40.3,16.69,Women
+470,G-Star Raw Sleep & Lounge #470,Sleep & Lounge,G-Star Raw,20.86,9.82,Men
+471,Volcom Shorts #471,Shorts,Volcom,25.86,13.14,Men
+472,Quiksilver Maternity #472,Maternity,Quiksilver,38.02,19.03,Women
+473,Diesel Shorts #473,Shorts,Diesel,30.87,12.44,Men
+474,Nike Suits & Sport Coats #474,Suits & Sport Coats,Nike,46.56,21.08,Men
+475,Free People Shorts #475,Shorts,Free People,31.03,12.7,Men
+476,Nike Shorts #476,Shorts,Nike,57.44,24.05,Men
+477,Calvin Klein Shorts #477,Shorts,Calvin Klein,109.04,40.77,Men
+478,Allegra K Suits & Sport Coats #478,Suits & Sport Coats,Allegra K,22.27,10.31,Men
+479,Quiksilver Suits & Sport Coats #479,Suits & Sport Coats,Quiksilver,50.13,28.36,Men
+480,Lucky Brand Jeans #480,Jeans,Lucky Brand,23.55,8.81,Men
+481,Lucky Brand Outerwear & Coats #481,Outerwear & Coats,Lucky Brand,76.31,37.14,Men
+482,Calvin Klein Jeans #482,Jeans,Calvin Klein,96.93,43.4,Men
+483,Calvin Klein Suits & Sport Coats #483,Suits & Sport Coats,Calvin Klein,44.2,16.98,Men
+484,Nautica Intimates #484,Intimates,Nautica,36.55,16.49,Women
+485,Hanes Dresses #485,Dresses,Hanes,65.75,39.31,Women
+486,Nautica Outerwear & Coats #486,Outerwear & Coats,Nautica,70.98,26.69,Men
+487,Volcom Accessories #487,Accessories,Volcom,13.82,5.11,Men
+488,Carhartt Outerwear & Coats #488,Outerwear & Coats,Carhartt,51.32,29.43,Men
+489,Nike Jeans #489,Jeans,Nike,18.91,8.3,Men
+490,Diesel Outerwear & Coats #490,Outerwear & Coats,Diesel,23.88,11.46,Men
+491,Nike Outerwear & Coats #491,Outerwear & Coats,Nike,25.2,12.22,Men
+492,Calvin Klein Pants & Capris #492,Pants & Capris,Calvin Klein,55.75,28.58,Men
+493,Nike Active #493,Active,Nike,18.11,9.37,Men
+494,Hanes Sleep & Lounge #494,Sleep & Lounge,Hanes,17.46,9.0,Men
+495,Diesel Active #495,Active,Diesel,31.3,11.43,Men
+496,Volcom Active #496,Active,Volcom,103.14,60.79,Men
+497,Carhartt Jeans #497,Jeans,Carhartt,20.2,9.78,Men
+498,Quiksilver Outerwear & Coats #498,Outerwear & Coats,Quiksilver,53.39,24.7,Men
+499,Vera Wang Accessories #499,Accessories,Vera Wang,80.51,44.19,Men
+500,Nautica Skirts #500,Skirts,Nautica,17.66,7.22,Women
